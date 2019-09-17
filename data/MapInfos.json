@@ -1,11 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Inicio","order":1,"parentId":0,"scrollX":534,"scrollY":319},
+{"id":1,"expanded":true,"name":"Inicio","order":1,"parentId":0,"scrollX":680,"scrollY":433.3333333333333},
 {"id":2,"expanded":true,"name":"Fuera_Inicio","order":2,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":true,"name":"Bosque Abajo","order":3,"parentId":0,"scrollX":735,"scrollY":1143},
-{"id":4,"expanded":true,"name":"Bosque Arriba","order":5,"parentId":0,"scrollX":2056,"scrollY":2256},
-{"id":5,"expanded":false,"name":"Costa","order":4,"parentId":3,"scrollX":1088,"scrollY":297},
-{"id":6,"expanded":false,"name":"Castillo","order":6,"parentId":4,"scrollX":1206,"scrollY":1524},
-{"id":7,"expanded":true,"name":"Pueblo de montaña","order":7,"parentId":4,"scrollX":840,"scrollY":1535},
-{"id":8,"expanded":true,"name":"Casa oso","order":8,"parentId":7,"scrollX":832,"scrollY":640}
+{"id":3,"expanded":true,"name":"Bosque Abajo","order":3,"parentId":0,"scrollX":734.6666666666666,"scrollY":1017.3333333333334},
+{"id":4,"expanded":true,"name":"Bosque Arriba","order":5,"parentId":0,"scrollX":2210.6666666666665,"scrollY":882.6666666666666},
+{"id":5,"expanded":false,"name":"Costa","order":4,"parentId":3,"scrollX":1088,"scrollY":422.6666666666667},
+{"id":6,"expanded":true,"name":"Castillo","order":6,"parentId":4,"scrollX":1394.6666666666667,"scrollY":1762.6666666666667},
+{"id":7,"expanded":true,"name":"Pueblo de montaña","order":8,"parentId":4,"scrollX":1133.3333333333333,"scrollY":1689.3333333333333},
+{"id":8,"expanded":true,"name":"Casa oso","order":9,"parentId":7,"scrollX":680,"scrollY":433.3333333333333},
+null,
+{"id":10,"expanded":false,"name":"Castillo (Piso 3)","order":7,"parentId":6,"scrollX":1298.6666666666667,"scrollY":882.6666666666666}
 ]
